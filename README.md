@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <p align="center">
@@ -6,11 +6,7 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=yin-qiyu&hide_border=true" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yin-qiyu)](https://github.com/yin-qiyu/github-readme-stats)
 
-
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yin-qiyu&show_icons=true&theme=tokyonight)
 
 
 
