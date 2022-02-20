@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yin-qiyu)](https://github.com/yin-qiyu/github-readme-stats)
 
