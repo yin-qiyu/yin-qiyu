@@ -1,5 +1,9 @@
 
-
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
+  <h3 align="center">waka-box</h3>
+  <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
+</p>
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=yin-qiyu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
@@ -25,9 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-TypeScript   6 hrs 46 mins  █████████████████████░░░  73.5%
-JSON               50 mins  █████▓░░░░░░░░░░░░░░░░░░   9.1%
-Python             28 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.2%
-HTML               22 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.0%
-JavaScript         19 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.6%
-Markdown           11 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
+
