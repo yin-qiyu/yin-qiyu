@@ -6,6 +6,7 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=yin-qiyu&hide_border=true" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=yin-qiyu&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yin-qiyu&theme=tokyonight&layout=compact" height="150">
 
 
 
